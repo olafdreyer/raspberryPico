@@ -14,3 +14,10 @@ The pins for the LCD display are as follows:
   <img src="./img/lcdPinout.png" alt="PinOut for the 16x2 display" width="500">
 </p>
 
+The program 
+
+**temperature.py**
+
+is an example program that uses the LCD class and the on-board thermometer of the Pico to display the temperature. 
+
+Depending on the wiring some constants in the LCD class need to be adjusted.
