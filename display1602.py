@@ -31,7 +31,7 @@ class LCD(object):
 
     LCD_RS = 16
     LCD_E = 17
-    LCD_D4 = 22
+    LCD_D4 = 18
     LCD_D5 = 19
     LCD_D6 = 20
     LCD_D7 = 21

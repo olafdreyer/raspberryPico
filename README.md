@@ -20,4 +20,10 @@ The program
 
 is an example program that uses the LCD class and the on-board thermometer of the Pico to display the temperature. 
 
-Depending on the wiring some constants in the LCD class need to be adjusted.
+Depending on the wiring some constants in the LCD class need to be adjusted. I have used the following wiring:
+
+<p align="center">
+  <img src="./img/lcdWiring.png" alt="Wiring for the 16x2 display" width="800">
+</p>
+
+
